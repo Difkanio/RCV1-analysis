@@ -12,7 +12,7 @@ The notebook includes:
 
 This project was created as an assingment for a university course called Formal Methods in Software Engineering
 
-## 🔍 Models Compared
+## Models Compared
 
 ### Neural Network
 - Built using **PyTorch**
@@ -23,7 +23,7 @@ This project was created as an assingment for a university course called Formal 
 - A gradient boosting framework that uses tree-based learning algorithms
 - Optimized for speed and efficiency
 
-## 🛠️ Technologies Used
+## Technologies Used
 - Python
 - Jupyter Notebook
 - NumPy, Scikit-learn
